@@ -3,7 +3,7 @@
 ## Front matter
 title: "Лабораторная работа №2"
 subtitle: "Дискреционное разграничение прав в Linux. Основные атрибуты"
-author: "Шуваев Сергей"
+author: "Джахангиров Ильгар"
 
 ## Generic otions
 lang: ru-RU
